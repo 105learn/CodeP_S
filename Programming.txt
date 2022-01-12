@@ -1,1 +1,1 @@
-The purpose of this repo is to keep the code of  Graph that I learn.
+The purpose of this repo is to keep the code that I'll learn.
